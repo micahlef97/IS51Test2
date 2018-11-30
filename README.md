@@ -13,13 +13,13 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 3. Code component 50pts (~ 115 minutes)
 
 You can use any resources including  your books, notes, and memos for completing this part of the test; however, you cannot ask, share, or consult with anyone in the world. You can use the Internet for any searches. Any violation will automatically issue a zero on the Exam.
-
+=====
 The GUI for the application is fully provided for you and you should not have to write any CSS or new HTML elements. Pull the application source code as specified according to the GITFlow section of this exam. Change html of the components items and write all necessary codes and complete the application.
-
+===============
 Push all the files to your GITHub repo and change name of the top folder to “IS51Test2” (corresponding to your GITHub repo) upon completion of test.
 
 Make sure the computer, VS Code, and the files / application is all working properly with no errors or warnings.
-
+========
 ### Code Component - Test Grading Application
 
 You are hired to create a Web application to computerize the exam grading process. The application should have a collection of tests that stores the following data: ID (a number), Points Possible (a number), Points Received (a number), Percentage (a number) and Grade (an string). Currently there are three exams data as shown below and the application should use an array of three custom objects (interface). If you don’t know how to use an array of custom interface, you can use an array of 'any' objects instead with 2.5 points penalty.
